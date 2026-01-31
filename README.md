@@ -49,13 +49,13 @@ This step is important to ensure the new subnet does not overlap with existing s
 
 2. Fill in the details:
 
-VPC: Default VPC
+- VPC: Default VPC
 
-Subnet name: 
+- Subnet name:
 
-Availability Zone: 
+- Availability Zone:
 
-IPv4 CIDR block: a non-overlapping range
+- IPv4 CIDR block: a non-overlapping range
 
 3. Click Create subnet.
 
